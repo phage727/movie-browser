@@ -8,14 +8,23 @@
   margin-bottom: 2rem;
   text-align: center;
   font-size: 2.5rem;
-  color: #ffffff;
+  color: #eca95c;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.head{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1.5rem;
+  color: #a35c0b;
+  
 }
 
 .favorites-empty {
   text-align: center;
   padding: 4rem 2rem;
-  background-color: rgba(255, 255, 255, 0.05);
+  background-color: #f1deb5;
   border-radius: 12px;
   margin: 2rem auto;
   max-width: 600px;
